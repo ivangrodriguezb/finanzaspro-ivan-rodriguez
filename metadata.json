@@ -1,0 +1,5 @@
+{
+  "name": "Finanzas Pro AI",
+  "description": "Un dashboard financiero completo para gestionar ingresos, gastos, deudas y recibir recomendaciones de inversión potenciadas por Gemini AI.",
+  "requestFramePermissions": []
+}
